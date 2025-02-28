@@ -2,6 +2,7 @@
 
 ## 项目简介
 Latest Research From JLU Transportation College
+
 A comprehensive RTTE framework that takes into account the heterogeneity and temporal variability of road segment conditions. It integrates a Heterogeneous Dynamic Graph (HDG) and a Trajectory Motion Transformer (TMT) to model macro traffic dynamics and micro vehicle motion patterns. 
 
 ---
