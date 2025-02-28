@@ -17,5 +17,5 @@ A comprehensive RTTE framework that takes into account the heterogeneity and tem
 
 ### Usage
 1. pip install -r requirements.txt
-2. The datasets can be obtained Baidu Cloud.
-3. Train and evaluate the model. We provide all the above tasks under the folder ./DTS/. 
+2. The datasets can be obtained [Baidu Cloud](https://pan.baidu.com/s/4muPzAg4).
+3. Train and evaluate the model. We provide all the above tasks under the folder ./DTS_train.py. 
